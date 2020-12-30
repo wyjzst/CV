@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b16f9e17-37c7-44d1-bc72-ca365877ebfb" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hdIQ32FJtvo4tgaXJFRAsEoG4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b16f9e17-37c7-44d1-bc72-ca365877ebfb" name="默认的" comment="" />
+      <created>1600334523125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600334523125</updated>
+      <workItem from="1600334524210" duration="1341000" />
+      <workItem from="1600342915697" duration="625000" />
+      <workItem from="1600425210213" duration="4301000" />
+      <workItem from="1600516819201" duration="3154000" />
+      <workItem from="1600599813013" duration="3600000" />
+      <workItem from="1600633387695" duration="1000" />
+      <workItem from="1600638317805" duration="3043000" />
+      <workItem from="1600740891635" duration="5735000" />
+      <workItem from="1600811325840" duration="2208000" />
+      <workItem from="1600950005622" duration="27000" />
+      <workItem from="1601013868175" duration="599000" />
+      <workItem from="1601105964539" duration="599000" />
+      <workItem from="1601214732024" duration="2456000" />
+      <workItem from="1601288156772" duration="2640000" />
+      <workItem from="1601375491647" duration="8858000" />
+      <workItem from="1601463935564" duration="2026000" />
+      <workItem from="1602060537801" duration="603000" />
+      <workItem from="1602096709482" duration="3000" />
+      <workItem from="1602751578331" duration="5360000" />
+      <workItem from="1603242733752" duration="3948000" />
+      <workItem from="1603247485476" duration="3000" />
+      <workItem from="1605154069226" duration="209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\git-bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="921" y="429" key="FileChooserDialogImpl" timestamp="1600335338045">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="921" y="429" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1600335338045" />
+    <state x="1115" y="351" key="SettingsEditor" timestamp="1600335370958">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1115" y="351" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1600335370958" />
+  </component>
+</project>
