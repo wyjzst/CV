@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b16f9e17-37c7-44d1-bc72-ca365877ebfb" name="默认的" comment="" />
+    <list default="true" id="b16f9e17-37c7-44d1-bc72-ca365877ebfb" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/CSS/sytle.css" beforeDir="false" afterPath="$PROJECT_DIR$/cv/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/images/account_react.png" beforeDir="false" afterPath="$PROJECT_DIR$/cv/images/account_react.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hdIQ32FJtvo4tgaXJFRAsEoG4T" />
   <component name="ProjectViewState">
@@ -15,6 +23,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -48,6 +60,14 @@
       <workItem from="1603242733752" duration="3948000" />
       <workItem from="1603247485476" duration="3000" />
       <workItem from="1605154069226" duration="209000" />
+      <workItem from="1625743718264" duration="1030000" />
+      <workItem from="1625897686540" duration="207000" />
+      <workItem from="1625901275332" duration="981000" />
+      <workItem from="1627874723969" duration="601000" />
+      <workItem from="1627883409587" duration="3000" />
+      <workItem from="1627905816266" duration="1025000" />
+      <workItem from="1627913519470" duration="1485000" />
+      <workItem from="1627915016454" duration="241000" />
     </task>
     <servers />
   </component>
@@ -56,15 +76,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="921" y="429" key="FileChooserDialogImpl" timestamp="1600335338045">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="921" y="429" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1600335338045" />
-    <state x="1115" y="351" key="SettingsEditor" timestamp="1600335370958">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="1115" y="351" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1600335370958" />
   </component>
 </project>
